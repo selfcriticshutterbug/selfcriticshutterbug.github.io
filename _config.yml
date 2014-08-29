@@ -14,8 +14,8 @@ author :
   name : Kiran Rao
   # email : blah@email.test
   github : selfcriticshutterbug
-  twitter : username
-  # feedburner : feedname
+  # twitter : username
+  feedburner : scsb
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-6285724-2'
     getclicky :
       site_id : 
     mixpanel :
